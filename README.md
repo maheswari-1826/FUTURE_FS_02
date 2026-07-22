@@ -5,6 +5,11 @@
 This is a Mini CRM (Client Lead Management System) built using React.js. It helps manage client leads by allowing users to add, edit, delete, search, and update client information.
 
 ---
+## 🌐 Live Demo
+
+You can view the deployed project here:
+
+https://future-fs-02-d3e0sodir-magi18.vercel.app
 
 ## 🚀 Features
 
