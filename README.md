@@ -9,7 +9,7 @@ This is a Mini CRM (Client Lead Management System) built using React.js. It help
 
 You can view the deployed project here:
 
-https://future-fs-02-d3e0sodir-magi18.vercel.app
+https://future-fs-02-nine-gilt.vercel.app
 
 ## 🚀 Features
 
